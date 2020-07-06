@@ -8,6 +8,7 @@
 
 echo "Hello World!";
 ?>
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="Flowers in Chania">
+
+ <li><a href="intro.php">Home page</a></li>
 </body>
 </html>
