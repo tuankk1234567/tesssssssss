@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-<img src="Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="Flowers in Chania">
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="Flowers in Chania">
 echo "Hello World!";
 ?>
 
